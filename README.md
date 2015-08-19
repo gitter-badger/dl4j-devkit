@@ -1,4 +1,6 @@
 # dl4j-devkit
+
+[![Join the chat at https://gitter.im/deeplearning4j/dl4j-devkit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deeplearning4j/dl4j-devkit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - the "devkit", a reference build environment for nd4j & deeplearning4j
 
 ## Contents
